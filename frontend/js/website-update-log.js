@@ -1,8 +1,7 @@
-// Website Update Log - AquaNime
-// File ini di-generate otomatis oleh sistem setiap ada perubahan besar pada struktur frontend.
-// Tampilkan log ini di halaman "Versi Website & Update Log" secara dinamis jika di-include di HTML.
+// frontend/js/website-update-log.js
 
-const { version } = require("react");
+// Hapus baris ini:
+// const { version } = require("react"); 
 
 window.AquaNimeWebsiteUpdateLog = [
     {   version: "1.0.11",
